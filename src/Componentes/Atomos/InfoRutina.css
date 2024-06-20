@@ -1,0 +1,10 @@
+.info-rutina {
+  padding: 10px;
+  border-bottom: 1px solid #444;
+}
+
+.info-rutina p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #aaa;
+}
